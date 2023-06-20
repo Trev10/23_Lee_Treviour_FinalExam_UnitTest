@@ -10,6 +10,7 @@ all test case first then work on the code that's needed to add on
 */
 
 public class StringCalculatorTest {
+
     @Test
     public void testAdd1() {
         //check if one number is negative throws Index out of bound exception
